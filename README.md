@@ -2,7 +2,7 @@
 
 ## Detect with YARA
 
-To detect this ransomware variant, certain patterns and text strings were identified that can be very useful to be 100% certain.
+This new ransomware variant aims to encrypt PostgreSQL databases, running under Linux architectures. To detect this ransomware variant, certain patterns and text strings were identified that can be very useful to be 100% certain.
 
 Execution:
 
