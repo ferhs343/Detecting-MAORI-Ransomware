@@ -10,7 +10,7 @@ Using the -s parameter, it will give us an output with all the conditions that i
 
 ![image](https://github.com/ferhs343/Detecting-MAORI-Ransomware/assets/114626248/3498af27-0967-47a1-ae39-721e8208a87c)
 
-![Uploading image.png…]()
+![image](https://github.com/ferhs343/Detecting-MAORI-Ransomware/assets/114626248/cff91cf8-5248-41a0-8b24-62f466089df9)
 
 ## Detect with SNORT
 
